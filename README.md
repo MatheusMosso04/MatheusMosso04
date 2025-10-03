@@ -8,6 +8,6 @@
 
 ##  Contato  
 -  E-mail: **matheusmosso04@hotmail.com**  
--  [LinkedIn](https://www.linkedin.com/in/Matheus-Mosso-Von-Zuben)    
--  [📄 Acessar Currículo]([https://SEU-LINK-DO-ONEDRIVE](https://1drv.ms/b/c/3aa9829491a4d75d/EViypL1uXJRHrcuWnj_mYH8BX1unzt2KHomqSW-d8qwgOA?e=f7atdF))  
+-  [Acessar LinkedIn](https://www.linkedin.com/in/Matheus-Mosso-Von-Zuben)    
+-  [Acessar Currículo](https://1drv.ms/b/c/3aa9829491a4d75d/EViypL1uXJRHrcuWnj_mYH8BX1unzt2KHomqSW-d8qwgOA?e=f7atdF)    
 ---
