@@ -1,5 +1,13 @@
-## Oi, eu sou o Matheus Mosso Von Zuben. 
-- 🎓 Ensino técnico de Informática integrado ao ensino médio (CEMEP) e Estudante de Engenharia da Computação na Universidade São Francisco.
-- 💼 Além disso estou a procura do meu primeiro estágio na área de Computação/Tecnologia. 
-- 💻 Contato: matheusmosso04@hotmail.com ou www.linkedin.com/in/matheus-mosso-von-zuben-b43a7021a
+# Olá, eu sou o Matheus Mosso Von Zuben  
 
+ Estudante de **Engenharia de Computação** – Universidade São Francisco  
+ Atualmente atuando como **Técnico de Suporte N1 Júnior**  
+ Em busca da minha primeira oportunidade como **Desenvolvedor**, aplicando meus conhecimentos e ampliando minhas habilidades na área.  
+
+---
+
+##  Contato  
+-  E-mail: **matheusmosso04@hotmail.com**  
+-  [LinkedIn](https://www.linkedin.com/in/Matheus-Mosso-Von-Zuben)    
+-  [📄 Acessar Currículo]([https://SEU-LINK-DO-ONEDRIVE](https://1drv.ms/b/c/3aa9829491a4d75d/EViypL1uXJRHrcuWnj_mYH8BX1unzt2KHomqSW-d8qwgOA?e=f7atdF))  
+---
